@@ -14,6 +14,8 @@ object programacionConObjetos {
 }
 ```
 
+Hola soy Jonathan Bravetti
+
 ## Datos de la cursada :book:
 * Modalidad Mixta
 * Horario comisión **noche**: Martes 18hs.
